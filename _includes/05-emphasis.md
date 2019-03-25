@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Мой портфолио на Гитхаб*
+
+**Изучаю работу с git и оформление проектов**
+
+
+_Все **легко и просто** получается._

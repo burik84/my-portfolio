@@ -9,3 +9,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+- - - - -
+добавить ссылки на проекты
+- - - - - 
+добавить ссылку на FCC
+- - - - - 
+добавить список где указаны ссылки на учебные курсы по GIT и мн.другое (в разработке)

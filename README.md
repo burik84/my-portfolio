@@ -1,17 +1,24 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+# My portfolio
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+Welcome to **burik84** repository. This repository lists my projects
 
 Oh! I haven't introduced myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+I am *Alexander Burachevsky*, I am interested in the web and carry out projects for my needs.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+* [Navi as a document guide](https://github.com/burik84/navi)
+* [Repostory my first site](https://github.com/burik84/okbur)
+* [Repostory for Landing Page is created for the event](https://github.com/burik84/robotsForward)
 
-I'll meet you over there, can't wait to get started!
-- - - - -
-добавить ссылки на проекты
+I am learning: 
+* html/html5 
+* css/css3
+* js
+
+I also use:
+* bootstrap
+* gulp
+* git
 - - - - - 
-добавить ссылку на FCC
-- - - - - 
-добавить список где указаны ссылки на учебные курсы по GIT и мн.другое (в разработке)
+I am taking lessons on [freeCodeCamp](https://www.freecodecamp.org/burik84)
+and already have a [certificate](https://www.freecodecamp.org/certification/burik84/responsive-web-design)

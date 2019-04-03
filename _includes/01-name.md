@@ -1,3 +1,4 @@
-# Welcome to **burik84** repository
-## I am *Alexander Burachevsky*.
-This repository lists my projects. I am interested in the web and carry out projects for my needs.
+# Добро пожаловать в репозиторий **burik84** моих индивидуальных проектов
+## Меня зовут *Alexander Burachevsky*.
+
+Этот репозиторий содержит мои проекты.

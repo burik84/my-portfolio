@@ -1,3 +1,3 @@
-# head1
-## head2
-Replace this with your name, and include a header.
+# Welcome to **burik84** repository
+## I am *Alexander Burachevsky*.
+This repository lists my projects. I am interested in the web and carry out projects for my needs.

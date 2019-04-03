@@ -1,3 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
-
-![myImageFirst](https://octodex.github.com/images/yaktocat.png)
+![myfoto](https://burik84.github.io/my-portfolio/img/myFoto.jpg)

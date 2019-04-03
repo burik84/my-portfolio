@@ -1,4 +1,4 @@
-*** My project:
+***My project***:
 
 * [Navi as a document guide](https://github.com/burik84/navi)
 * [Repostory my first site](https://github.com/burik84/okbur)

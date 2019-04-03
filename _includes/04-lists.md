@@ -1,17 +1,5 @@
-Replace this with a list of your favorite things.
+*** My project:
 
-1. Необходимо
-2. Дополнительно
-2. Инструменты
-
-      
-* Необходимо
-  * язык разметки
-  * язык стилей
-      * язык программирования
-* Дополнительно
-  * фреймворки
-  * сборщики проектов :+1:
-* Инструменты
-  * редактор кода ATOM
-  * Плагины :+1:
+* [Navi as a document guide](https://github.com/burik84/navi)
+* [Repostory my first site](https://github.com/burik84/okbur)
+* [Repostory for Landing Page is created for the event](https://github.com/burik84/robotsForward)

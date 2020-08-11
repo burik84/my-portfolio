@@ -1,25 +1,25 @@
-Мне интересно:
-* html/html5
-  - использование pug
-* css/css3
+### В настоящее время интересуюсь:
+
+* js
+  - React
+    - Redux...
+* css
   - flexbox
   - grid
-* js
-  - jquery
-* frameworks
-  - bootstrap
-  - react +redux / vue
 
-Дополнительно изучаю:
-* БЭМ
-* инструменты
+Дополнительно изучаю и практикуюсь:
+* БЭМ и наименование
+* автоматизация сборки
   - gulp
   - webpack
-  - scss
-* git
-* сервер
-  - node.js
+* scss
+* работа с GIT
 
 ---
 Мой профиль на [freeCodeCamp](https://www.freecodecamp.org/burik84) и в наличие [certificate](https://www.freecodecamp.org/certification/burik84/responsive-web-design)
 ---
+
+### Контакты
+
+login skype burikAP
+telegram @burikav

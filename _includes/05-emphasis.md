@@ -1,18 +1,16 @@
-### В настоящее время интересуюсь:
+### Навыки:
 
 * js
   - React
-    - Redux...
 * css
-  - flexbox
-  - grid
+  - flexbox, grid
+  - scss
+* html
 
 Дополнительно изучаю и практикуюсь:
 * БЭМ и наименование
 * автоматизация сборки
-  - gulp
-  - webpack
-* scss
+  - gulp, webpack
 * работа с GIT
 
 ---

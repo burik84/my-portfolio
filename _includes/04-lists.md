@@ -7,7 +7,7 @@
 * [js/fe task virtual keyboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/virtual-keyboard/)
 * [js/fe task gem puzzle](https://rolling-scopes-school.github.io/burik84-JS2020Q3/gem-puzzle/build/)
 * [js/fe task rs selectors](https://rolling-scopes-school.github.io/burik84-JS2020Q3/rs-css/build/index.html)
-* [js/fe comand task covid dashboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/covid-dashboard/build/index.html)
+* [js/fe command task covid dashboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/covid-dashboard/build/index.html)
 
 *** Мои проекты ***:
 

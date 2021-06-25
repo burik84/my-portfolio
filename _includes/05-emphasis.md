@@ -1,24 +1,38 @@
-### Навыки:
+# Training
+
+## Skills
 
 * js
-  - React
+  * React
+  * Typescrit
+  * NodeJS
 * css
-  - flexbox, grid
-  - scss
+  * flexbox, grid
+  * scss
 * html
-
-Дополнительно изучаю и практикуюсь:
-* БЭМ и наименование
-* автоматизация сборки
-  - gulp, webpack
-* работа с GIT
+* tools
+  * webpack
+  * git
 
 ---
+
+## Education
+
+* htmlacademy.ru, freecodecamp.org, udemy.com
+* [RS School](https://rs.school/)
+  * RS 2020 Q1, RS JS/FE 2020Q3
+  * RSS React 2020Q3, React 2021 Q1
+  * NodeJS 2021 Q2
+
+### English
+
+* A1 [efset sertificate](https://www.efset.org/cert/ADdS82) - but I continue to study
+
 Мой профиль на [freeCodeCamp](https://www.freecodecamp.org/burik84) и в наличие [certificate](https://www.freecodecamp.org/certification/burik84/responsive-web-design)
 ---
 
-### Контакты
+### Contacts
 
-login skype burikAP
-
-telegram @burikav
+* avburik84@gmail.com
+* skype burikAP
+* [@burikav](https://t.me/burikav)

@@ -9,7 +9,7 @@
 * [js/fe task virtual keyboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/virtual-keyboard/)
 * [js/fe task gem puzzle](https://rolling-scopes-school.github.io/burik84-JS2020Q3/gem-puzzle/build/)
 * [js/fe task rs selectors](https://rolling-scopes-school.github.io/burik84-JS2020Q3/rs-css/build/index.html)
-* RS JS/FE 2020Q3 - teamwork[covid dashboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/covid-dashboard/build/index.html). My contribution - block chart and fixed mistakes
+* RS JS/FE 2020Q3 - teamwork [covid dashboard](https://rolling-scopes-school.github.io/burik84-JS2020Q3/covid-dashboard/build/index.html). My contribution - block chart and fixed mistakes
 * RS React 2021 Q1 - teamwork [travel-app](https://anatoliyak.github.io/travel-app/#/). My contribution - page Country
 * RS React 2021 Q1 - teamwork [RS-LANG](https://rs-lang-74-client.herokuapp.com/main). My contribution - page Dictionary
 

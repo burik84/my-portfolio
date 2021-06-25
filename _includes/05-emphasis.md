@@ -29,6 +29,7 @@
 * A1 [efset sertificate](https://www.efset.org/cert/ADdS82) - but I continue to study
 
 Мой профиль на [freeCodeCamp](https://www.freecodecamp.org/burik84) и в наличие [certificate](https://www.freecodecamp.org/certification/burik84/responsive-web-design)
+
 ---
 
 ### Contacts

@@ -1,5 +1,7 @@
-# Коротко обо мне - **burik84**
+# About me - **burik84**
 
-## Меня зовут *Alexander Burachevsky*
+## My name's *Alexander Burachevsky*
 
-Здесь представлена краткая информация обо мне и личные проекты.
+Javascript developer, react developer.
+
+Here is a brief information about me and personal projects.

@@ -13,7 +13,7 @@
 * RS React 2021 Q1 - teamwork [travel-app](https://anatoliyak.github.io/travel-app/#/). My contribution - page Country
 * RS React 2021 Q1 - teamwork [RS-LANG](https://rs-lang-74-client.herokuapp.com/main). My contribution - page Dictionary
 
-***Мои проекты***:
+***Projects***:
 
 * [Navi as a document guide](https://github.com/burik84/navi)
 * [Repostory my first site](https://github.com/burik84/okbur)

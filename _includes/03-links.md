@@ -1,2 +1,2 @@
-> [Мой ВК](https://vk.com/burik84)  
-> [Мой блог](https://burik84.github.io/github-blog/)
+> [vk](https://vk.com/burik84)
+> [my blog](https://burik84.github.io/github-blog/)

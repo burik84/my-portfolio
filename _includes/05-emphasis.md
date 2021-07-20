@@ -21,8 +21,8 @@
 * htmlacademy.ru, freecodecamp.org, udemy.com
 * [RS School](https://rs.school/)
   * RS 2020 Q1, RS JS/FE 2020Q3
-  * RSS React 2020Q3, React 2021 Q1
-  * NodeJS 2021 Q2
+  * RSS React 2020Q3, [React 2021 Q1](https://app.rs.school/certificate/dsucvgwa)
+  * [NodeJS 2021 Q2](https://app.rs.school/certificate/z70t0usp)
 
 ### English
 

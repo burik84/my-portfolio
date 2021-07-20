@@ -2,6 +2,8 @@
 
 ***RS school***
 
+* [js/fe task wildlife](https://rolling-scopes-school.github.io/burik84-JSFE2021Q1/wildlife/)
+* [js/fe task match match game](https://rolling-scopes-school.github.io/burik84-JSFE2021Q1/match-match-game/dist/index.html)
 * [react task songbird](https://burik84-songbird.netlify.app)
 * [js/fe task webdev](https://rolling-scopes-school.github.io/burik84-JS2020Q3/webdev/)
 * [js/fe task shelter](https://rolling-scopes-school.github.io/burik84-JS2020Q3/shelter/pages/main/main.html)
